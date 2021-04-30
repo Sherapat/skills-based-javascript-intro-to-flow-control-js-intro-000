@@ -26,7 +26,7 @@ return("You are a grownup");
 function ternaryTeenager(age) {
 return("You are a teenager");
 if (age == 13 && 19) {
-  
+
 } else {
   return("You are not a teenager");
 }
